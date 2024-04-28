@@ -14,4 +14,5 @@ Running clustering over the word2vec embeddings of this movie, we expect words u
 ### References and Further Readings
 - [ComputerPhile on YouTube, Word Embeddings](https://youtu.be/gQddtTdmG_8)
 - [3Blue1Brown on YouTube, Embeddings Explanation](https://youtu.be/wjZofJX0v4M)
+- [StatQuest on YouTube, Word2Vec Clearly Explained](https://youtu.be/viZrOnJclY0)
 - [dylancastillo.co, Cluster documents with word2vec](https://dylancastillo.co/nlp-snippets-cluster-documents-using-word2vec/)
